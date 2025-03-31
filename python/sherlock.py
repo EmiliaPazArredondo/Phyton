@@ -1,3 +1,5 @@
+#Trabajo utilizando lo que aprendí en phyton
+
 pistas = ("puerta roja",221, "londres", 3.14, "watson", 7,"moriarty")
 
 print("¡Bienvenido, detective holmes!")

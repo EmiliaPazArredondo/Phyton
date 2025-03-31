@@ -1,5 +1,5 @@
 # Emilia arredondo contreras
-# miau
+# convertidor
 # 25-03-2025
 
 pesos = int(input("cuanto te queda en pesos colombianos?"))

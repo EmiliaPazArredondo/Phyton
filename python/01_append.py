@@ -1,3 +1,5 @@
+#añadir elementos a una lista
+
 mi_lista=[]
 mi_lista.append(30)
 mi_lista.append(20)

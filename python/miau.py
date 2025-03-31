@@ -1,4 +1,4 @@
-#cosito
+#test de la función print
 print("       _                        ")
 print("       \`*-.                   ")
 print("        )  _`-.               ")

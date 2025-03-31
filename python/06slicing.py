@@ -1,4 +1,4 @@
-#sirve para sacar los elementos entre
+#sirve para sacar los elementos de una lista
 
 mi_lista=[10,30,40,50,60]
 

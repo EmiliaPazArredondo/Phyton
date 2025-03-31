@@ -1,5 +1,5 @@
 #Emilia Paz
-#Me gustan los gatos
+#explrador de archivos
 #17-03-2025
 
 Lista=["gato","gatito","gatote","michi","miau"]

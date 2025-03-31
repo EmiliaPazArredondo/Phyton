@@ -1,3 +1,5 @@
+#trabajo aplicando conocimientos de phyton
+
 Tareas=["Sacar dinero del banco","Hacer la colada","Dar un paseo","Cortarse el cabello","Preparar un té","Terminar el capítulo de listas","Lllamar a mamá","Ver my hero academia"]
 print(Tareas)
 
